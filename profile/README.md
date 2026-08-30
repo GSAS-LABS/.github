@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/gsas_logo_white.svg" alt="GSAS-LABS Logo" width="140">
+  <img src="../images/gsas_logo_white.svg" alt="GSAS-LABS Logo" width="140">
 </p>
 
 <h1 align="center">GSAS-LABS</h1>
@@ -63,70 +63,17 @@ Features include:
 
 ---
 
-# 🔓 Open Technology
-
-GSAS-LABS supports the sharing of knowledge through open technology.
-
-Depending on the project, repositories may include:
-
-```text
-Firmware
-   ↓
-Source Code
-
-Hardware
-   ↓
-Schematics + PCB Design Files
-
-Documentation
-   ↓
-Design Decisions + Assembly + Usage
-```
-
-Each project clearly defines its own licensing terms.
-
----
-
 # 📜 Licensing Philosophy
 
 Different parts of a project may use different licenses depending on their purpose.
 
-For example:
-
 | Component | License |
 |---|---|
-| 💻 Firmware | GPLv3 |
-| 🔧 Hardware | CERN-OHL-S v2 |
+| 💻 Firmware | [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) |
+| 🔧 Hardware | [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt) |
 | 🐧 GSAS-LABS Name and Logo | All Rights Reserved |
 
-This approach allows software and hardware designs to remain open while protecting the GSAS-LABS identity and visual 
-branding.
-
----
-
-# 🧑‍🔬 Philosophy
-
-GSAS-LABS believes that engineering projects are not only about the final product.
-
-The process is equally important:
-
-```text
-Idea
- ↓
-Experiment
- ↓
-Prototype
- ↓
-Design
- ↓
-Test
- ↓
-Learn
- ↓
-Improve
-```
-
-Projects are documented to share both the results and the engineering process behind them.
+This approach allows software and hardware designs to remain open while protecting the GSAS-LABS identity and visual branding.
 
 ---
 
