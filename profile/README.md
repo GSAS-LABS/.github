@@ -12,6 +12,15 @@
   Exploring electronics, embedded systems, software, and open technology.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Electronics-Engineering-blue" alt="Electronics">
+  <img src="https://img.shields.io/badge/Embedded-Systems-blue" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/Software-Engineering-blue" alt="Software Engineering">
+  <img src="https://img.shields.io/badge/PCB-Design-green" alt="PCB Design">
+  <img src="https://img.shields.io/badge/Open-Source-orange" alt="Open Source">
+  <img src="https://img.shields.io/badge/Open-Hardware-orange" alt="Open Hardware">
+</p>
+
 ---
 
 # 🧪 About
@@ -48,6 +57,8 @@ The goal is to create projects that are practical, understandable, and well docu
 Projects developed at GSAS-LABS include experiments, prototypes, and reusable technologies.
 
 ### 🎲 P.003 — Digital Dice
+
+![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
 
 A compact digital dice based on an ATtiny85 microcontroller and a 74HC595 shift register.
 
