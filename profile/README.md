@@ -70,7 +70,7 @@ Features include:
 - Low-power operation
 - Custom PCB design
 
-➡️ [Explore the P.003 project repository](https://github.com/gustavoSAS/P003)
+➡️ [Explore the P.003 project repository](https://github.com/GSAS-LABS/P.003)
 
 ---
 
