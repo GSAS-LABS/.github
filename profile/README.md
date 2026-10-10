@@ -95,3 +95,13 @@ This approach allows software and hardware designs to remain open while protecti
 <p align="center">
   Made with ❤️ by GSAS-LABS
 </p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/gsas.labs">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me a Coffee"
+      width="180"
+    />
+  </a>
+</p>
