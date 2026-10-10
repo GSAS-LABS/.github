@@ -58,19 +58,19 @@ Projects developed at GSAS-LABS include experiments, prototypes, and reusable te
 
 ### 🎲 P.003 — Digital Dice
 
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
+![Status](https://img.shields.io/badge/Status-Ready-brightgreen)
 
 A compact digital dice based on an ATtiny85 microcontroller and a 74HC595 shift register.
 
 Features include:
 
-- Multiple dice modes
+- Multiple dice modes (D4, D6, D8, and D10)
 - Configurable rolling animation
-- Persistent mode selection
+- Persistent mode selection using EEPROM
 - Low-power operation
 - Custom PCB design
 
-➡️ Explore the project repository for firmware, hardware files, documentation, and manufacturing information.
+➡️ [Explore the P.003 project repository](https://github.com/gustavoSAS/P003)
 
 ---
 
