@@ -101,7 +101,7 @@ This approach allows software and hardware designs to remain open while protecti
     <img
       src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
       alt="Buy Me a Coffee"
-      width="180"
+      width="130"
     />
   </a>
 </p>
